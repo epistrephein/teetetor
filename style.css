@@ -9,3 +9,16 @@
 .button-answer {
   margin-top: 1em;
 }
+footer {
+  margin-top: 5em;
+  font-size: 0.85em;
+  line-height: 0.65em;
+  color: #ccc;
+  font-weight: 300;
+}
+footer a {
+  color: #a2c6e5;
+}
+footer a:hover {
+  color: #65a0d4;
+}
